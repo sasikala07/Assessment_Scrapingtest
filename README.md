@@ -37,6 +37,7 @@ Completed the task using beautifulsoup with my kowledge and also tried to do usi
 #### Using BeautifulSoup [Task2_using_BeautifulSoup.ipynb](https://github.com/sasikala07/Assessment_Scrapingtest/blob/main/Task2/Task2_CarDescription_BeautifulSoup.ipynb)
 
 **step1**:Import packages for scraping and open the website using urllib.request and download html code.
+scraped **entire car descriptions from ineventory one page**.
 
 **step2**: Parse the html using beautifulsoup and extract the information.Take out 'a' tag of href link of each car list containg descriptions using
 find_all function.
@@ -49,7 +50,13 @@ find_all function.
 
 **step6**: Save the list of description as text.file 
 
-#### [Task_2_using_beautifulsoup.text](https://github.com/sasikala07/Assessment_Scrapingtest/blob/main/Task2/task2.txt)
+#### [Entire_Car_Description_using_beautifulsoup.txt](https://github.com/sasikala07/Assessment_Scrapingtest/blob/main/Task2/task2.txt)
+
+**step7**: scraping 5 Audi car description and saved as in 5 sample textfile
+
+#### [Task2_5Audi_Car_Description_using_BeautifulSoup.txt](https://github.com/sasikala07/Assessment_Scrapingtest/tree/main/Task2/5Text%20file_Audi_Car_Description)
+
+
 
 #### Using Selenium [Task2_using_selenium.ipynb](https://github.com/sasikala07/Assessment_Scrapingtest/blob/main/Task2/Task2_using_selenium_scraping.ipynb)
 
@@ -63,4 +70,4 @@ find_all function.
 
 **step5**:save the one car description as text.file 
 
-#### [Task2_using_selenium.text](https://github.com/sasikala07/Assessment_Scrapingtest/blob/main/Task2/task2_selenium.txt)
+#### [Task2_using_selenium.txt](https://github.com/sasikala07/Assessment_Scrapingtest/blob/main/Task2/task2_selenium.txt)
