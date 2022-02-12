@@ -1,6 +1,11 @@
 # Scraping Test 
 I am Sasikala S, completed the tasks with my knowledge.Scraping using ***BeautifulSoup*** for Task_1  and tried to do using ***Selenium*** for Task_2.
 
+|Tools used|BeautifulSoup,Selenium,Pandas|
+|---|---|
+|Technology|JupyterNotebook,python|
+
+
 # Task1 
 Analyze the website[www.gotoauto.ca](www.gotoauto.ca) that you given for scraping work.
 #### [Task_1.ipynb](https://github.com/sasikala07/Assessment_Scrapingtest/tree/main/Task1)
